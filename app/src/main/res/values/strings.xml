@@ -8,4 +8,5 @@
     <string name="start_service">Start Service</string>
     <string name="connection_error">Failed to connect to location services. Please try again later.</string>
     <string name="service_started">Service Started</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
